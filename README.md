@@ -1,1 +1,1 @@
-# Primer scrip, no es mucho pero es lo que hay.
+# Primer script, no es mucho pero es lo que hay.
